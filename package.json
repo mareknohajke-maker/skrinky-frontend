@@ -1,9 +1,8 @@
 {
   "name": "skrinky-frontend",
   "version": "1.0.0",
-  "description": "Flutter PWA Frontend",
   "scripts": {
-    "start": "npx serve -s . -l 3001"
+    "start": "npx serve -s . -l $PORT"
   },
   "dependencies": {
     "serve": "^14.2.0"
