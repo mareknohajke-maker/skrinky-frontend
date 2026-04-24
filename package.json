@@ -1,0 +1,11 @@
+{
+  "name": "skrinky-frontend",
+  "version": "1.0.0",
+  "description": "Flutter PWA Frontend",
+  "scripts": {
+    "start": "npx serve -s . -l 3001"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
