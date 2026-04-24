@@ -1,8 +1,10 @@
 {
   "name": "skrinky-frontend",
   "version": "1.0.0",
+  "description": "Flutter PWA Frontend",
   "scripts": {
-    "start": "npx serve -s . -l $PORT"
+    "start": "npx serve -s . -l $PORT",
+    "vercel-build": "echo 'Build already done by Flutter'"
   },
   "dependencies": {
     "serve": "^14.2.0"
